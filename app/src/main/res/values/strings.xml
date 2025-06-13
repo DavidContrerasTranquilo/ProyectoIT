@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iTunesSearch</string>
+    <string name="nav_search">Busqueda</string>
+    <string name="nav_guess">Descubre</string>
+    <string name="nav_favorites">Favoritos</string>
+
+    <string name="search_hint">Busca música, artistas...</string>
+    <string name="songs_section_title">Canciones</string>
+    <string name="albums_section_title">Álbumes</string>
+    <string name="tus_favoritos">Tus favoritos</string>
+
+    <string name="song_image_desc">Imagen de la canción</string>
+    <string name="album_image_desc">Imagen del álbum</string>
+    <string name="default_song_title">Título desconocido</string>
+    <string name="default_album_title">Álbum desconocido</string>
+    <string name="default_artist">Artista desconocido</string>
+    <string name="default_price">Precio no disponible</string>
+
+    <string name="canciones_todas">Ver todas las canciones</string>
+    <string name="albums_todos">Ver todos los álbumes</string>
+
+    <string name="artista">Artista</string>
+    <string name="nombre_cancion">Nombre canción</string>
+
+    <!-- Strings para DetailActivity -->
+    <string name="artwork">Imagen de la portada</string>
+    <string name="play_button">Reproducir previsualización</string>
+    <string name="pause_button">Pausar previsualización</string>
+
+    <string name="add_to_favorites">Añadir a favoritos</string>
+    <string name="remove_from_favorites">Quitar de favoritos</string>
+
+    <string name="titulo_cancion">Título de la canción</string>
+    <string name="album">Álbum</string>
+    <string name="fecha_lanzamiento">Fecha de lanzamiento</string>
+    <string name="precio">Precio</string>
+    <string name="genero">Género</string>
+
+    <!-- EsbrinaFragment -->
+    <string name="guessed_label">Número de canciones adivinadas: %1$d / %2$d</string>
+    <string name="remaining_label">Número de canciones que quedan por reproducir: %1$d</string>
+    <string name="attempts_label">Intentos por canción: %1$d / %2$d</string>
+    <string name="restart_game">🔄 Volver a jugar</string>
+    <string name="play">▶️ Reproducir</string>
+    <string name="pause">⏸️ Pausar</string>
+    <string name="correct_guess">✅ Correcto! Has adivinado la canción.</string>
+    <string name="wrong_guess_retry">❌ Incorrecto. Intentos restantes: %1$d</string> <!-- Aquest no s'usa -->
+    <string name="wrong_guess_limit">❌ Incorrecto! El título era: %1$s</string>
+    <string name="media_error">⚠️ Error en reproducir la cancion</string>
+    <string name="enter_song_title">Escribe el título de la cançión</string> <!-- Versio antiga -->
+    <string name="progress_counter">Canciones adivinadas: %1$d / %2$d</string> <!-- Versio antiga -->
+    <string name="finished_all_songs">Has completado todas las canciones disponibles!</string>
+    <string name="progress_extended">
+    Adivinadas: %1$d / %2$d&#10;Número de canciones que quedan por reproducir: %3$d&#10;Intentos: %4$d / %5$d
+</string>
+
+
+
+    <string name="remove_favorite">Eliminar de los favoritos</string>
+
+</resources>
